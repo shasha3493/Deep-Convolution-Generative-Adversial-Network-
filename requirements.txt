@@ -98,7 +98,7 @@ pyxdg==0.25
 PyYAML==3.12
 rawdog==2.22
 regex==2020.6.8
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.23.0
 roman==2.0.0
 s3transfer==0.3.3
