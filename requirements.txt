@@ -45,7 +45,7 @@ ipaddress==1.0.17
 ipython==5.5.0
 ipython-genutils==0.2.0
 jmespath==0.10.0
-joblib==0.14.1
+joblib==1.2.0
 keyring==10.6.0
 keyrings.alt==3.0
 kiwisolver==1.1.0
